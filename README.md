@@ -4,7 +4,7 @@ Here is my Team Profile. I created it with JavaScript and tested/ran it in node.
 
 ##  Links
 Git Hub Repository
-https://github.com/rythomas2525/pdfprofile
+https://github.com/rythomas2525/teamprofile
 
 
 
